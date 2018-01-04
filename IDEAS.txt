@@ -1,0 +1,4 @@
+- Für einen Inputtext herausfinden worum es geht (Merkmalsreduktion durch zählen der wörter)
+--> Erweiterung mittels sprachsteuerung
+ - Feature selection ausprobieren mit scikit learn lib
+
