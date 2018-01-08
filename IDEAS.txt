@@ -1,4 +1,5 @@
 - Für einen Inputtext herausfinden worum es geht (Merkmalsreduktion durch zählen der wörter)
 --> Erweiterung mittels sprachsteuerung
  - Feature selection ausprobieren mit scikit learn lib
-
+- Use RL to make Arduino bot navigate though the room.
+- Use NN and Picture RGB values to estimate something
